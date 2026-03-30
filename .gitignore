@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets – niemals in Git!
+.env
+backend/.env
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
